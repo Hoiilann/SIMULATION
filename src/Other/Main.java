@@ -44,5 +44,6 @@ public class Main {
             }
         }
         scan.close();
+        System.out.println("hello");
     }
 }
